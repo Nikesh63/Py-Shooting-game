@@ -31,8 +31,8 @@ Sprite groups & collision detection
 🧠 Game Mechanics:
 Enemies fall from the top of the screen.
 Destroy enemies to gain +10 score.
-If enemies reach the bottom, you lose health.
-If enemies collide with you, you lose more health.
+If enemies reach the bottom, the game ends as your health reaches to 0 .
+If enemies collide with you, you lose  health.
 The game ends when health reaches 0.
 Difficulty increases every 100 points.
 
