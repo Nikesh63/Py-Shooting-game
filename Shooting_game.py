@@ -10,10 +10,10 @@ FPS = 60
 
 PLAYER_SPEED = 5
 PLAYER_HEALTH = 100
-BULLET_SPEED = -12  # Increased speed for better responsiveness
+BULLET_SPEED = -11  # Increased speed for better responsiveness
 ENEMY_SPEED = 2  # Slightly slower to give player more time to shoot
 SPAWN_DELAY = 1200  # More forgiving spawn rate
-ESCAPED_ENEMY_DAMAGE = 20  # Damage for each escaped enemy
+ESCAPED_ENEMY_DAMAGE = 100  # Damage for each escaped enemy
 ENEMY_DAMAGE = 15  # Increased damage when enemy reaches player
 POWERUP_CHANCE = 0.1
 
